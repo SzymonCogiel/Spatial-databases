@@ -1,0 +1,1 @@
+# Spatial Databases AGH Course
