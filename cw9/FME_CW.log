@@ -1,0 +1,378 @@
+2022-12-18 22:35:19|   0.0|  0.0|INFORM|Current FME version: FME 2022.1.3.0 (20220928 - Build 22630 - WIN64)
+2022-12-18 22:35:19|   0.0|  0.0|INFORM|FME_HOME is 'C:\Program Files\FME\'
+2022-12-18 22:35:19|   0.0|  0.0|INFORM|FME Student Edition (node locked-crc)
+2022-12-18 22:35:19|   0.0|  0.0|INFORM|Serial Number: 57TKAD4IM9PCYRHAMS1V
+2022-12-18 22:35:19|   0.0|  0.0|INFORM|Temporary License: 49 days left.
+2022-12-18 22:35:19|   0.0|  0.0|INFORM|Machine host name is: DESKTOP-ELOVUC3
+2022-12-18 22:35:19|   0.0|  0.0|INFORM|OS Locale Name     : pl_PL
+2022-12-18 22:35:19|   0.0|  0.0|INFORM|OS Locale Encoding : windows-1250
+2022-12-18 22:35:19|   0.0|  0.0|INFORM|Process Encoding   : UTF-8
+2022-12-18 22:35:19|   0.0|  0.0|INFORM|FME API version: '4.0 20220615'
+2022-12-18 22:35:20|   0.0|  0.0|INFORM|FME Configuration: FME_BASE is 'no'
+2022-12-18 22:35:20|   0.0|  0.0|INFORM|FME Configuration: FME_MF_DIR is 'C:\Users\szymi\Desktop\semestrV\spatial_databases\Spatial-databases\cw9/'
+2022-12-18 22:35:20|   0.0|  0.0|INFORM|FME Configuration: FME_MF_NAME is 'FME_CW.fmw'
+2022-12-18 22:35:20|   0.0|  0.0|INFORM|FME Configuration: FME_PRODUCT_NAME is 'FME(R) 2022.1.3.0'
+2022-12-18 22:35:20|   0.0|  0.0|INFORM|Operating System: Microsoft Windows 11 64-bit  (Build 22000)
+2022-12-18 22:35:20|   0.0|  0.0|INFORM|FME Platform: WIN64
+2022-12-18 22:35:20|   0.0|  0.0|INFORM|System Status: 131.59 GB of disk space available in the FME temporary folder (C:\Users\szymi\AppData\Local\Temp\wbrun_1671399311659_18524\fmetmp_0)
+2022-12-18 22:35:20|   0.0|  0.0|INFORM|System Status: 31.91 GB of physical memory available
+2022-12-18 22:35:20|   0.0|  0.0|INFORM|System Status: 127.64 GB of virtual memory available
+2022-12-18 22:35:20|   0.0|  0.0|INFORM|START - ProcessID: 18168, peak process memory usage: 70804 kB, current process memory usage: 70804 kB
+2022-12-18 22:35:20|   0.0|  0.0|INFORM|FME Configuration: Command line arguments are `C:\Program Files\FME\fme.exe' `C:/Users/szymi/Desktop/semestrV/spatial_databases/Spatial-databases/cw9\wb-xlate-1671399316873_18524' `LOG_STANDARDOUT' `YES' `LOG_TIMINGS' `YES' `LogCountServerName' `53982' `LOG_STANDARDOUT' `No' `WORKBENCH_LOG_SERVER' `53980'
+2022-12-18 22:35:20|   0.0|  0.0|INFORM|FME Configuration: Connection Storage: 'C:\Users\szymi\AppData\Roaming\Safe Software\FME\'
+2022-12-18 22:35:20|   0.0|  0.0|INFORM|Shared folders for formats are : C:\Program Files\FME\datasources;C:\Users\szymi\Documents\FME\Formats
+2022-12-18 22:35:20|   0.0|  0.0|INFORM|Shared folders for transformers are : C:\Users\szymi\AppData\Roaming\Safe Software\FME\Packages\22630-win64\transformers;C:\Program Files\FME\transformers
+2022-12-18 22:35:20|   0.0|  0.0|INFORM|Shared folders for coordinate systems are : C:\Users\szymi\Documents\FME\CoordinateSystems
+2022-12-18 22:35:20|   0.0|  0.0|INFORM|Shared folders for coordinate system exceptions are : C:\Users\szymi\Documents\FME\CoordinateSystemExceptions
+2022-12-18 22:35:20|   0.0|  0.0|INFORM|Shared folders for coordinate system grid overrides are : C:\Users\szymi\Documents\FME\CoordinateSystemGridOverrides
+2022-12-18 22:35:20|   0.0|  0.0|INFORM|Shared folders for CS-MAP transformation exceptions are : C:\Users\szymi\Documents\FME\CsmapTransformationExceptions
+2022-12-18 22:35:20|   0.0|  0.0|INFORM|Shared folders for transformer categories are : C:\Users\szymi\Documents\FME\TransformerCategories
+2022-12-18 22:35:20|   0.0|  0.0|INFORM|FME Configuration: Reader Keyword is `MULTI_READER'
+2022-12-18 22:35:20|   0.0|  0.0|INFORM|FME Configuration: Writer Keyword is `MULTI_WRITER'
+2022-12-18 22:35:20|   0.0|  0.0|INFORM|FME Configuration: Writer Group Definition Keyword is `MULTI_WRITER_DEF'
+2022-12-18 22:35:20|   0.0|  0.0|INFORM|FME Configuration: Reader type is `MULTI_READER'
+2022-12-18 22:35:20|   0.0|  0.0|INFORM|FME Configuration: Writer type is `MULTI_WRITER'
+2022-12-18 22:35:20|   0.0|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2022-12-18 22:35:20|   0.0|  0.0|INFORM|FME Configuration: Current working folder is `C:\Users\szymi\Desktop\semestrV\spatial_databases\Spatial-databases\cw9'
+2022-12-18 22:35:20|   0.0|  0.0|INFORM|FME Configuration: Temporary folder is `C:\Users\szymi\AppData\Local\Temp\wbrun_1671399311659_18524\fmetmp_0', set from environment variable `FME_TEMP'
+2022-12-18 22:35:20|   0.0|  0.0|INFORM|FME Configuration: Cache folder is 'C:\Users\szymi\AppData\Local\Temp'
+2022-12-18 22:35:20|   0.0|  0.0|INFORM|FME Configuration: FME_HOME is `C:\Program Files\FME\'
+2022-12-18 22:35:20|   0.0|  0.0|INFORM|FME Configuration: Start freeing memory when the process exceeds 95.73 GB
+2022-12-18 22:35:20|   0.0|  0.0|INFORM|FME Configuration: Stop freeing memory when the process is below 71.80 GB
+2022-12-18 22:35:20|   0.0|  0.0|INFORM|Creating writer for format: 
+2022-12-18 22:35:20|   0.0|  0.0|INFORM|Creating reader for format: 
+2022-12-18 22:35:20|   0.0|  0.0|INFORM|MULTI_READER(MULTI_READER): Will fail with first member reader failure
+2022-12-18 22:35:20|   0.0|  0.0|INFORM|MULTI_READER(MULTI_READER): Adding CSV2 Reader with keyword CSV2_1
+2022-12-18 22:35:20|   0.0|  0.0|INFORM|MULTI_READER(MULTI_READER): Adding SHAPEFILE Reader with keyword SHAPEFILE_1
+2022-12-18 22:35:20|   0.0|  0.0|INFORM|MULTI_READER(MULTI_READER): Adding SHAPEFILE Reader with keyword SHAPEFILE_2
+2022-12-18 22:35:20|   0.0|  0.0|INFORM|MULTI_READER(MULTI_READER): Adding SHAPEFILE Reader with keyword SHAPEFILE_3
+2022-12-18 22:35:20|   0.0|  0.0|INFORM|Using Multi Reader with keyword `MULTI_READER' to read multiple datasets
+2022-12-18 22:35:20|   0.0|  0.0|INFORM|Creating reader for format: CSV (Comma Separated Value)
+2022-12-18 22:35:20|   0.1|  0.1|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV2'
+2022-12-18 22:35:20|   0.1|  0.0|INFORM|FME Configuration: Source coordinate system for reader CSV2_1[CSV2] set to `LL-WGS84'
+2022-12-18 22:35:20|   0.1|  0.0|INFORM|Coordinate System `LL-WGS84' parameters: CS_NAME=`LL-WGS84' DESC_NM=`WGS84 Lat/Longs' DT_NAME=`WGS84' GROUP=`LL' MAP_SCL=`1' PROJ=`LL' QUAD=`1' SCL_RED=`1' UNIT=`DEGREE'
+2022-12-18 22:35:20|   0.1|  0.0|INFORM|Loaded module 'CSV2' from file 'C:\Program Files\FME\plugins/CSV2.dll'
+2022-12-18 22:35:20|   0.1|  0.0|INFORM|FME API version of module 'CSV2' matches current internal version (4.0 20220615)
+2022-12-18 22:35:20|   0.1|  0.0|INFORM|CSV reader: Opening dataset 'C:\Users\szymi\Documents\FME\Workspaces\Dane - Ćwiczenia 8\routePoints.csv'
+2022-12-18 22:35:20|   0.1|  0.0|INFORM|CSV reader: Directive '_TRIM_FEATURE_TYPE_NAME' has the value 'Yes'
+2022-12-18 22:35:20|   0.1|  0.0|INFORM|CSV reader: Directive '_SUPPORTED_READER_ARCHIVE_EXTENSIONS' has the value 'csv.gz,txt.gz'
+2022-12-18 22:35:20|   0.1|  0.0|INFORM|CSV reader: Directive '_DELIMITER' has the value 'auto'
+2022-12-18 22:35:20|   0.1|  0.0|INFORM|CSV reader: Directive '_FIELD_NAMES_LINE' has the value '1'
+2022-12-18 22:35:20|   0.1|  0.0|INFORM|CSV reader: Directive '_DATA_START_LINE' has the value '2'
+2022-12-18 22:35:20|   0.1|  0.0|INFORM|CSV reader: Directive '_SCAN_MAX_ROWS' has the value '10000'
+2022-12-18 22:35:20|   0.1|  0.0|INFORM|CSV reader: Directive '_READ_SKIPPED_LINES' has the value 'No'
+2022-12-18 22:35:20|   0.1|  0.0|INFORM|CSV reader: Directive '_ENCODING' has the value 'windows-1250'
+2022-12-18 22:35:20|   0.1|  0.0|INFORM|CSV reader: Directive 'FME_NAMES_ENCODING' has the value 'UTF-8'
+2022-12-18 22:35:20|   0.1|  0.0|INFORM|CSV reader: Directive '_SKIP_DUPLICATE_DELIMITERS' has the value 'No'
+2022-12-18 22:35:20|   0.1|  0.0|INFORM|CSV reader: Directive '_FIELD_QUALIFIER_CHARACTER' has the value '"'
+2022-12-18 22:35:20|   0.1|  0.0|INFORM|CSV reader: Directive '_FIELD_QUALIFIER_ESCAPE_CHARACTER' has the value '"'
+2022-12-18 22:35:20|   0.1|  0.0|INFORM|CSV reader: Directive '_TRIM_FIELD_NAME_QUALIFIERS' has the value 'Yes'
+2022-12-18 22:35:20|   0.1|  0.0|INFORM|CSV reader: Directive '_TRIM_FIELD_VALUE_QUALIFIERS' has the value 'Yes'
+2022-12-18 22:35:20|   0.1|  0.0|INFORM|CSV reader: Directive '_PRESERVE_SOURCE_ENCODING' has the value 'No'
+2022-12-18 22:35:20|   0.1|  0.0|INFORM|CSV reader: Directive '_CASE_SENSITIVE_FIELD_NAMES' has the value 'Yes'
+2022-12-18 22:35:20|   0.1|  0.0|INFORM|CSV reader: Directive '_ENFORCE_STRICT_SCHEMA' has the value 'No'
+2022-12-18 22:35:20|   0.1|  0.0|INFORM|CSV reader: Directive '_SCAN_TYPES' has the value 'Yes'
+2022-12-18 22:35:20|   0.1|  0.0|INFORM|CSV reader: Directive '_TYPE_ATTRIBUTE_HANDLING' has the value 'STANDARD_TYPES'
+2022-12-18 22:35:20|   0.1|  0.0|INFORM|CSV reader: Directive '_STRING_TYPE_ATTRIBUTE_HANDLING' has the value 'EXPLICIT_WIDTH'
+2022-12-18 22:35:20|   0.1|  0.0|INFORM|CSV reader: Directive '_SCAN_ADDITIONAL_FIELDS' has the value 'No'
+2022-12-18 22:35:20|   0.1|  0.0|INFORM|CSV reader: Directive '_DATE_INPUT_FORMAT' has the value 'ISO'
+2022-12-18 22:35:20|   0.1|  0.0|INFORM|CSV reader: Directive '_CHUNK_SIZE' has the value '100000'
+2022-12-18 22:35:20|   0.1|  0.0|INFORM|CSV reader: Directive '_TRIM_FIELD_NAME_WHITESPACE' has the value 'Yes'
+2022-12-18 22:35:20|   0.1|  0.0|INFORM|CSV reader: Directive '_READ_EMPTY_VALUES_AS' has the value 'Null'
+2022-12-18 22:35:20|   0.1|  0.0|INFORM|CSV reader: Directive '_REPLACE_ATTR_NAME_INVALID_CHARS' has the value 'No'
+2022-12-18 22:35:20|   0.1|  0.0|INFORM|Using MultiWriter with keyword `MULTI_WRITER' to output data (ID_ATTRIBUTE is `multi_writer_id')
+2022-12-18 22:35:20|   0.1|  0.0|INFORM|Writer output will be ordered by value of multi_writer_id
+2022-12-18 22:35:20|   0.1|  0.0|INFORM|Loaded module 'LogCount_func' from file 'C:\Program Files\FME\plugins/LogCount_func.dll'
+2022-12-18 22:35:20|   0.1|  0.0|INFORM|FME API version of module 'LogCount_func' matches current internal version (4.0 20220615)
+2022-12-18 22:35:20|   0.1|  0.0|INFORM|FME Configuration: Using FME Reprojection Engine
+2022-12-18 22:35:20|   0.1|  0.0|INFORM|Loaded module 'VertexCreatorFactory' from file 'C:\Program Files\FME\plugins/VertexCreatorFactory.dll'
+2022-12-18 22:35:20|   0.1|  0.0|INFORM|FME API version of module 'VertexCreatorFactory' matches current internal version (4.0 20220615)
+2022-12-18 22:35:20|   0.1|  0.0|INFORM|Loaded module 'NetworkFactory' from file 'C:\Program Files\FME\plugins/NetworkFactory.dll'
+2022-12-18 22:35:20|   0.1|  0.0|INFORM|FME API version of module 'NetworkFactory' matches current internal version (4.0 20220615)
+2022-12-18 22:35:20|   0.1|  0.0|INFORM|Loaded module 'StatisticsCalculatorFactory' from file 'C:\Program Files\FME\plugins/StatisticsCalculatorFactory.dll'
+2022-12-18 22:35:20|   0.1|  0.0|INFORM|FME API version of module 'StatisticsCalculatorFactory' matches current internal version (4.0 20220615)
+2022-12-18 22:35:20|   0.1|  0.0|INFORM|StatisticsCalculator_NoCost (StatisticsCalculatorFactory): The following statistics will be calculated 'INTERSECT.min,INTERSECT.max,INTERSECT.total_count,INTERSECT.sum'
+2022-12-18 22:35:20|   0.2|  0.1|INFORM|StatisticsCalculator_Cost (StatisticsCalculatorFactory): The following statistics will be calculated 'POINT_NUM.min,POINT_NUM.max,POINT_NUM.total_count,POINT_NUM.sum'
+2022-12-18 22:35:20|   0.2|  0.0|INFORM|CSV Feature Recorder -1 2147549196 (RecorderFactory): Splitting bulk features into individual features
+2022-12-18 22:35:20|   0.3|  0.1|INFORM|Creating reader for format: Esri Shapefile
+2022-12-18 22:35:20|   0.3|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `SHAPEFILE'
+2022-12-18 22:35:20|   0.3|  0.0|INFORM|Loaded module 'SHAPEFILE' from file 'C:\Program Files\FME\plugins/shapefile_dbase.dll'
+2022-12-18 22:35:20|   0.3|  0.0|INFORM|FME API version of module 'shapefile_dbase' matches current internal version (4.0 20220615)
+2022-12-18 22:35:20|   0.5|  0.2|INFORM|The OGC definition of the FME coordinate system 'LL-WGS84' is 'GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433],AUTHORITY["EPSG",4326]]'
+2022-12-18 22:35:20|   0.5|  0.0|INFORM|Shapefile reader: Reading dataset with encoding 'UTF-8' as determined by 'Codepage File'
+2022-12-18 22:35:20|   0.5|  0.0|INFORM|FME Configuration: Source coordinate system for reader SHAPEFILE_1[SHAPEFILE] set to `LL-WGS84' as read from input data
+2022-12-18 22:35:20|   0.5|  0.0|INFORM|Coordinate System `LL-WGS84' parameters: CS_NAME=`LL-WGS84' DESC_NM=`WGS84 Lat/Longs' DT_NAME=`WGS84' GROUP=`LL' MAP_SCL=`1' PROJ=`LL' QUAD=`1' SCL_RED=`1' UNIT=`DEGREE'
+2022-12-18 22:35:20|   0.6|  0.1|INFORM|FFS writer: Writing 22070 feature(s) to file 'C:\Users\szymi\AppData\Local\Temp\wb-cache-FME_CW-HzRqUK\Main_T2019_KAR_STREETS -1 14 -1  0  e43c57b4703270b4b487f7b6716fccbd1d82f1cc.fts'
+2022-12-18 22:35:20|   0.7|  0.1|INFORM|Spatial Index: Adding 22070 features
+2022-12-18 22:35:20|   0.8|  0.1|WARN  |Streets_Reprojector: Ignoring source coordinate system 'EPSG:4326' in favor of feature coordinate system. This warning will not be repeated
+2022-12-18 22:35:20|   0.8|  0.0|INFORM|CS-MAP Reprojector: Transformation will be automatically selected for 'LL-WGS84' -> 'DHDN.Berlin/Cassini', and is not guaranteed to remain the same in future releases of FME
+2022-12-18 22:35:21|   0.8|  0.0|INFORM|Reprojector: Using transformation `ETRS89/01_to_WGS84,Inverse(Geocentric)' when reprojecting from LL-WGS84 to DHDN.Berlin/Cassini
+2022-12-18 22:35:21|   0.8|  0.0|INFORM|Reprojector: Using transformation `DHDN_to_ETRS89/01_8_ntv2_BeTA2007_FME,Inverse(Grid File Interpolation,EPSG:15948)' when reprojecting from LL-WGS84 to DHDN.Berlin/Cassini
+2022-12-18 22:35:21|   0.8|  0.0|INFORM|Reprojector:`DHDN_to_ETRS89/01_8_ntv2_BeTA2007_FME,Inverse(Grid File Interpolation,EPSG:15948)' will use the following grid shift files:
+2022-12-18 22:35:21|   0.8|  0.0|INFORM|Reprojector:     C:\Program Files\FME\Reproject\EsriPEGridData\ntv2\germany\BeTA2007.gsb
+2022-12-18 22:35:21|   0.8|  0.0|INFORM|Reprojector: If a point is outside the usable range of 'DHDN_to_ETRS89/01_8_ntv2_BeTA2007_FME' the following fallback transformation will be used: 'DHDN_to_WGS84,Inverse(Seven Parameter,EPSG:1673)'
+2022-12-18 22:35:21|   0.8|  0.0|INFORM|FFS writer: Writing 22070 feature(s) to file 'C:\Users\szymi\AppData\Local\Temp\wb-cache-FME_CW-HzRqUK\Main_Streets_Reprojector -1 4 fo 0 REPROJECTED  0  7f34fdc7303dbbe94e5352164bad681343400417.fts'
+2022-12-18 22:35:21|   1.0|  0.2|INFORM|Spatial Index: Adding 22070 features
+2022-12-18 22:35:21|   1.3|  0.3|INFORM|ShortestPathFinder_NoCost_2 (NetworkFactory): Splitting bulk features into individual features
+2022-12-18 22:35:21|   1.4|  0.1|STATS |Storing feature(s) to FME feature store file `C:\Users\szymi\AppData\Local\Temp\wbrun_1671399311659_18524\fmetmp_0\FME_1671399321501_18168'
+2022-12-18 22:35:22|   2.2|  0.8|INFORM|FFS writer: Writing 17584 feature(s) to file 'C:\Users\szymi\AppData\Local\Temp\wb-cache-FME_CW-HzRqUK\Main_ISBOTHWAY_Tester -1 18 fo 0 PASSED  0  96889124782326c905f103f5248cc8c18dab336e.fts'
+2022-12-18 22:35:22|   2.3|  0.1|INFORM|Spatial Index: Adding 17584 features
+2022-12-18 22:35:22|   2.3|  0.0|INFORM|BothDir: Bulk features are not supported because the expression contains a function call
+2022-12-18 22:35:23|   3.3|  1.0|INFORM|Spatial Index: Adding 17584 features
+2022-12-18 22:35:23|   3.3|  0.0|INFORM|ShortestPathFinder_Cost (NetworkFactory): Splitting bulk features into individual features
+2022-12-18 22:35:23|   3.3|  0.0|STATS |Storing feature(s) to FME feature store file `C:\Users\szymi\AppData\Local\Temp\wbrun_1671399311659_18524\fmetmp_0\FME_1671399323520_18168'
+2022-12-18 22:35:24|   3.9|  0.6|INFORM|FFS writer: Writing 4486 feature(s) to file 'C:\Users\szymi\AppData\Local\Temp\wb-cache-FME_CW-HzRqUK\Main_ISBOTHWAY_Tester -1 18 fo 1 FAILED  0  e9b8f3892863ee5c9efe0a246a36c7227213762e.fts'
+2022-12-18 22:35:24|   3.9|  0.0|INFORM|Spatial Index: Adding 4486 features
+2022-12-18 22:35:24|   4.0|  0.1|INFORM|FFS writer: Writing 2231 feature(s) to file 'C:\Users\szymi\AppData\Local\Temp\wb-cache-FME_CW-HzRqUK\Main_ISFORWARD_Tester -1 19 fo 0 PASSED  0  77aeb0d96bc2ec2ffb11bd0230370c37d91c1f6a.fts'
+2022-12-18 22:35:24|   4.0|  0.0|INFORM|Spatial Index: Adding 2231 features
+2022-12-18 22:35:24|   4.0|  0.0|INFORM|ForwardDir: Bulk features are not supported because the expression contains a function call
+2022-12-18 22:35:24|   4.1|  0.1|INFORM|Spatial Index: Adding 2231 features
+2022-12-18 22:35:24|   4.1|  0.0|INFORM|ShortestPathFinder_Cost (NetworkFactory): Splitting bulk features into individual features
+2022-12-18 22:35:24|   4.2|  0.1|INFORM|FFS writer: Writing 2255 feature(s) to file 'C:\Users\szymi\AppData\Local\Temp\wb-cache-FME_CW-HzRqUK\Main_ISFORWARD_Tester -1 19 fo 1 FAILED  0  d08cbdf393f9f957e298d5076ba4cdb6bdb6adc5.fts'
+2022-12-18 22:35:24|   4.2|  0.0|INFORM|Spatial Index: Adding 2255 features
+2022-12-18 22:35:24|   4.2|  0.0|INFORM|Backward_Dir: Bulk features are not supported because the expression contains a function call
+2022-12-18 22:35:24|   4.4|  0.2|INFORM|Spatial Index: Adding 2255 features
+2022-12-18 22:35:24|   4.4|  0.0|INFORM|ShortestPathFinder_Cost (NetworkFactory): Splitting bulk features into individual features
+2022-12-18 22:35:24|   4.5|  0.1|INFORM|Creating reader for format: Esri Shapefile
+2022-12-18 22:35:24|   4.5|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `SHAPEFILE'
+2022-12-18 22:35:24|   4.5|  0.0|INFORM|Shapefile reader: Reading dataset with encoding 'UTF-8' as determined by 'Codepage File'
+2022-12-18 22:35:24|   4.5|  0.0|INFORM|FME Configuration: Source coordinate system for reader SHAPEFILE_2[SHAPEFILE] set to `LL-WGS84' as read from input data
+2022-12-18 22:35:24|   4.5|  0.0|INFORM|Coordinate System `LL-WGS84' parameters: CS_NAME=`LL-WGS84' DESC_NM=`WGS84 Lat/Longs' DT_NAME=`WGS84' GROUP=`LL' MAP_SCL=`1' PROJ=`LL' QUAD=`1' SCL_RED=`1' UNIT=`DEGREE'
+2022-12-18 22:35:24|   4.6|  0.1|INFORM|FFS writer: Writing 3622 feature(s) to file 'C:\Users\szymi\AppData\Local\Temp\wb-cache-FME_CW-HzRqUK\Main_T2019_KAR_POI_TABLE -1 37 -1  0  e0bf64e086c0a0c7fef62348bd28d457212017df.fts'
+2022-12-18 22:35:24|   4.6|  0.0|INFORM|Spatial Index: Adding 3622 features
+2022-12-18 22:35:24|   4.6|  0.0|INFORM|FFS writer: Writing 3622 feature(s) to file 'C:\Users\szymi\AppData\Local\Temp\wb-cache-FME_CW-HzRqUK\Main_Reprojector -1 38 fo 0 REPROJECTED  0  9de897467a4ed3e731372d397bc33c7a08d8e5e8.fts'
+2022-12-18 22:35:24|   4.6|  0.0|INFORM|Spatial Index: Adding 3622 features
+2022-12-18 22:35:24|   4.7|  0.1|INFORM|Creating reader for format: Esri Shapefile
+2022-12-18 22:35:24|   4.7|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `SHAPEFILE'
+2022-12-18 22:35:24|   4.7|  0.0|INFORM|Shapefile reader: Reading dataset with encoding 'UTF-8' as determined by 'Codepage File'
+2022-12-18 22:35:24|   4.7|  0.0|INFORM|FME Configuration: Source coordinate system for reader SHAPEFILE_3[SHAPEFILE] set to `LL-WGS84' as read from input data
+2022-12-18 22:35:24|   4.7|  0.0|INFORM|Coordinate System `LL-WGS84' parameters: CS_NAME=`LL-WGS84' DESC_NM=`WGS84 Lat/Longs' DT_NAME=`WGS84' GROUP=`LL' MAP_SCL=`1' PROJ=`LL' QUAD=`1' SCL_RED=`1' UNIT=`DEGREE'
+2022-12-18 22:35:24|   4.7|  0.0|INFORM|FFS writer: Writing 66404 feature(s) to file 'C:\Users\szymi\AppData\Local\Temp\wb-cache-FME_CW-HzRqUK\Main_T2019_KAR_STREET_NODE -1 55 -1  0  ebe2b71b4a01676b3253510efcfdb295b05948a6.fts'
+2022-12-18 22:35:25|   5.1|  0.4|INFORM|Spatial Index: Adding 66404 features
+2022-12-18 22:35:25|   5.4|  0.3|INFORM|FFS writer: Writing 66404 feature(s) to file 'C:\Users\szymi\AppData\Local\Temp\wb-cache-FME_CW-HzRqUK\Main_Reprojector_2 -1 56 fo 0 REPROJECTED  0  630d15a7479f355683ac2e4e365b748228ff7986.fts'
+2022-12-18 22:35:26|   5.9|  0.5|INFORM|Spatial Index: Adding 66404 features
+2022-12-18 22:35:26|   6.3|  0.4|INFORM|MULTI_READER(MULTI_READER): Done reading 92098 features from 4 readers
+2022-12-18 22:35:26|   6.3|  0.0|INFORM|Emptying factory pipeline
+2022-12-18 22:35:26|   6.3|  0.0|STATS |Router and Unexpected Input Remover (RoutingFactory): Tested 92098 input feature(s), wrote 92098 output feature(s): 92098 matched merge filters, 92098 were routed to output, 0 could not be routed.
+2022-12-18 22:35:26|   6.3|  0.0|STATS |Unwanted Router Input Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2022-12-18 22:35:26|   6.3|  0.0|STATS |T2019_KAR_STREET_NODE_SHAPEFILE_3 Splitter (TeeFactory): Cloned 66404 input feature(s) into 66404 output feature(s)
+2022-12-18 22:35:26|   6.3|  0.0|STATS |T2019_KAR_POI_TABLE_SHAPEFILE_2 Splitter (TeeFactory): Cloned 3622 input feature(s) into 3622 output feature(s)
+2022-12-18 22:35:26|   6.3|  0.0|STATS |CSV_CSV2_1 Splitter (TeeFactory): Cloned 2 input feature(s) into 2 output feature(s)
+2022-12-18 22:35:26|   6.3|  0.0|STATS |T2019_KAR_STREETS_SHAPEFILE_1 Splitter (TeeFactory): Cloned 22070 input feature(s) into 22070 output feature(s)
+2022-12-18 22:35:26|   6.3|  0.0|STATS |Reprojector_2 (TeeFactory): Cloned 66404 input feature(s) into 66404 output feature(s)
+2022-12-18 22:35:26|   6.3|  0.0|STATS |Reprojector_2 REPROJECTED Splitter (TeeFactory): Cloned 66404 input feature(s) into 132808 output feature(s)
+2022-12-18 22:35:26|   6.3|  0.0|STATS |Reprojector (TeeFactory): Cloned 3622 input feature(s) into 3622 output feature(s)
+2022-12-18 22:35:26|   6.3|  0.0|STATS |Reprojector REPROJECTED Splitter (TeeFactory): Cloned 3622 input feature(s) into 7244 output feature(s)
+2022-12-18 22:35:26|   6.3|  0.0|STATS |Streets_Reprojector (TeeFactory): Cloned 22070 input feature(s) into 22070 output feature(s)
+2022-12-18 22:35:26|   6.3|  0.0|STATS |Streets_Reprojector REPROJECTED Splitter (TeeFactory): Cloned 22070 input feature(s) into 44140 output feature(s)
+2022-12-18 22:35:26|   6.3|  0.0|STATS |ISBOTHWAY_Tester (TestFactory): Tested 22070 input feature(s) -- 17584 feature(s) passed and 4486 feature(s) failed
+2022-12-18 22:35:26|   6.3|  0.0|STATS |ISFORWARD_Tester (TestFactory): Tested 4486 input feature(s) -- 2231 feature(s) passed and 2255 feature(s) failed
+2022-12-18 22:35:26|   6.4|  0.1|STATS |LineBuilder (ConnectionFactory): Processed 2 input feature(s). Output 1 feature(s) consisting of 0 polygonal feature(s), 1 linear feature(s), and 0 point feature(s)
+2022-12-18 22:35:26|   6.4|  0.0|STATS |Line_Reprojector (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2022-12-18 22:35:26|   6.4|  0.0|STATS |Line_Reprojector REPROJECTED Splitter (TeeFactory): Cloned 1 input feature(s) into 2 output feature(s)
+2022-12-18 22:35:26|   6.4|  0.0|STATS |ShortestPathFinder_NoCost_2_Splitter0 (TeeFactory): Cloned 22070 input feature(s) into 22070 output feature(s)
+2022-12-18 22:35:26|   6.4|  0.0|STATS |ShortestPathFinder_NoCost_2_Splitter1 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2022-12-18 22:35:26|   6.4|  0.0|INFORM|ShortestPathFinder_NoCost_2 (NetworkFactory): Beginning snapping process in the NetworkFactory
+2022-12-18 22:35:26|   6.5|  0.1|INFORM|ShortestPathFinder_NoCost_2 (NetworkFactory): Completed snapping process in the NetworkFactory
+2022-12-18 22:35:26|   6.5|  0.0|INFORM|Bufferer_Cost_2_2DBuffering (PolygonDissolveFactory): Buffering feature number: 1
+2022-12-18 22:35:27|   6.9|  0.4|STATS |Stored 16643 feature(s) to FME feature store file `C:\Users\szymi\AppData\Local\Temp\wbrun_1671399311659_18524\fmetmp_0\FME_1671399321501_18168'
+2022-12-18 22:35:27|   6.9|  0.0|STATS |ShortestPathFinder_NoCost_2 PATH Splitter (TeeFactory): Cloned 1 input feature(s) into 4 output feature(s)
+2022-12-18 22:35:27|   6.9|  0.0|INFORM|SpatialFilter_POI_NoCost_FAILED Feature Recorder -1 2147680305 (RecorderFactory): Splitting bulk features into individual features
+2022-12-18 22:35:27|   7.0|  0.1|INFORM|SpatialFilter_POI_NoCost (SpatialFilterFactory): Processed 'Candidate' 1 / 3622
+2022-12-18 22:35:27|   7.1|  0.1|INFORM|Spatial Index: Adding 3523 features
+2022-12-18 22:35:27|   7.1|  0.0|INFORM|SpatialFilter_POI_NoCost_PASSED Feature Recorder -1 2147614769 (RecorderFactory): Splitting bulk features into individual features
+2022-12-18 22:35:27|   7.1|  0.0|STATS |SpatialFilter_POI_NoCost (SpatialFilterFactory): Total: Processed 3623 input feature(s): 1 'Filter' feature(s) and 3622 'Candidate' feature(s). 1 feature(s) PASSED
+2022-12-18 22:35:27|   7.1|  0.0|INFORM|FFS writer: Writing 5652 feature(s) to file 'C:\Users\szymi\AppData\Local\Temp\wb-cache-FME_CW-HzRqUK\Main_SpatialFilter_StreetNode_No_Cost -1 54 fo 1 FAILED  0  3cca237e4005a8f27a20901f8b64b74bd15d3e2b.fts'
+2022-12-18 22:35:27|   7.1|  0.0|INFORM|Spatial Index: Adding 5652 features
+2022-12-18 22:35:27|   7.2|  0.1|INFORM|SpatialFilter_StreetNode_No_Cost (SpatialFilterFactory): Processed 'Candidate' 1 / 66404
+2022-12-18 22:35:28|   7.8|  0.6|INFORM|Spatial Index: Adding 60513 features
+2022-12-18 22:35:28|   7.8|  0.0|INFORM|SpatialFilter_StreetNode_No_Cost_PASSED Feature Recorder -1 2147614774 (RecorderFactory): Splitting bulk features into individual features
+2022-12-18 22:35:28|   7.9|  0.1|STATS |SpatialFilter_StreetNode_No_Cost (SpatialFilterFactory): Total: Processed 66405 input feature(s): 1 'Filter' feature(s) and 66404 'Candidate' feature(s). 1 feature(s) PASSED
+2022-12-18 22:35:28|   7.9|  0.0|INFORM|StatisticsCalculator_NoCost (StatisticsCalculatorFactory): Processing complete
+2022-12-18 22:35:28|   7.9|  0.0|STATS |LengthCalculator_LengthCalculatorInput (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2022-12-18 22:35:28|   7.9|  0.0|STATS |LengthCalculator_LengthCalculator (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2022-12-18 22:35:28|   7.9|  0.0|STATS |LengthCalculator_Rejector (TestFactory): Tested 1 input feature(s) -- 0 feature(s) passed and 1 feature(s) failed
+2022-12-18 22:35:28|   7.9|  0.0|STATS |ShortestPathFinder_Cost_Splitter0 (TeeFactory): Cloned 22070 input feature(s) into 22070 output feature(s)
+2022-12-18 22:35:28|   7.9|  0.0|STATS |ShortestPathFinder_Cost_Splitter1 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2022-12-18 22:35:28|   7.9|  0.0|INFORM|ShortestPathFinder_Cost (NetworkFactory): Beginning snapping process in the NetworkFactory
+2022-12-18 22:35:28|   7.9|  0.0|INFORM|ShortestPathFinder_Cost (NetworkFactory): Completed snapping process in the NetworkFactory
+2022-12-18 22:35:28|   8.0|  0.1|INFORM|Bufferer_Cost_2DBuffering (PolygonDissolveFactory): Buffering feature number: 1
+2022-12-18 22:35:28|   8.5|  0.5|STATS |Stored 16643 feature(s) to FME feature store file `C:\Users\szymi\AppData\Local\Temp\wbrun_1671399311659_18524\fmetmp_0\FME_1671399323520_18168'
+2022-12-18 22:35:28|   8.5|  0.0|STATS |ShortestPathFinder_Cost PATH Splitter (TeeFactory): Cloned 1 input feature(s) into 4 output feature(s)
+2022-12-18 22:35:28|   8.5|  0.0|INFORM|SpatialFilter_POI_Cost_FAILED Feature Recorder -1 2147680290 (RecorderFactory): Splitting bulk features into individual features
+2022-12-18 22:35:28|   8.6|  0.1|INFORM|SpatialFilter_POI_Cost (SpatialFilterFactory): Processed 'Candidate' 1 / 3622
+2022-12-18 22:35:28|   8.6|  0.0|INFORM|Spatial Index: Adding 3523 features
+2022-12-18 22:35:28|   8.6|  0.0|INFORM|SpatialFilter_POI_Cost_PASSED Feature Recorder -1 2147614754 (RecorderFactory): Splitting bulk features into individual features
+2022-12-18 22:35:28|   8.6|  0.0|STATS |SpatialFilter_POI_Cost (SpatialFilterFactory): Total: Processed 3623 input feature(s): 1 'Filter' feature(s) and 3622 'Candidate' feature(s). 1 feature(s) PASSED
+2022-12-18 22:35:29|   8.7|  0.1|INFORM|FFS writer: Writing 5652 feature(s) to file 'C:\Users\szymi\AppData\Local\Temp\wb-cache-FME_CW-HzRqUK\Main_SpatialFilter_StreetNode_Cost -1 67 fo 1 FAILED  0  e02fc7f8f3ad22e93884f1f21c2bbb4761bfa1a3.fts'
+2022-12-18 22:35:29|   8.7|  0.0|INFORM|Spatial Index: Adding 5652 features
+2022-12-18 22:35:29|   8.7|  0.0|INFORM|SpatialFilter_StreetNode_Cost (SpatialFilterFactory): Processed 'Candidate' 1 / 66404
+2022-12-18 22:35:29|   9.6|  0.9|INFORM|Spatial Index: Adding 60509 features
+2022-12-18 22:35:29|   9.6|  0.0|INFORM|SpatialFilter_StreetNode_Cost_PASSED Feature Recorder -1 2147614787 (RecorderFactory): Splitting bulk features into individual features
+2022-12-18 22:35:29|   9.8|  0.2|STATS |SpatialFilter_StreetNode_Cost (SpatialFilterFactory): Total: Processed 66405 input feature(s): 1 'Filter' feature(s) and 66404 'Candidate' feature(s). 1 feature(s) PASSED
+2022-12-18 22:35:30|   9.8|  0.0|INFORM|StatisticsCalculator_Cost (StatisticsCalculatorFactory): Processing complete
+2022-12-18 22:35:30|   9.8|  0.0|STATS |LengthCalculator_2_LengthCalculatorInput (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2022-12-18 22:35:30|   9.8|  0.0|STATS |LengthCalculator_2_LengthCalculator (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2022-12-18 22:35:30|   9.8|  0.0|STATS |LengthCalculator_2_Rejector (TestFactory): Tested 1 input feature(s) -- 0 feature(s) passed and 1 feature(s) failed
+2022-12-18 22:35:30|  10.0|  0.2|STATS |Destination Feature Type Routing Correlator (RoutingFactory): Tested 84 input feature(s), wrote 84 output feature(s): 0 matched merge filters, 84 were routed to output, 0 could not be routed.
+2022-12-18 22:35:30|  10.0|  0.0|STATS |Final Output Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2022-12-18 22:35:30|  10.0|  0.0|INFORM|MULTI_WRITER: multi_writer_id `1': Started outputting features
+2022-12-18 22:35:30|  10.0|  0.0|INFORM|Creating writer for format: GeoJSON (Geographic JavaScript Object Notation)
+2022-12-18 22:35:30|  10.0|  0.0|INFORM|Trying to find a DYNAMIC plugin for writer named `GEOJSON'
+2022-12-18 22:35:30|  10.0|  0.0|INFORM|Loaded module 'GEOJSON' from file 'C:\Program Files\FME\plugins/JSON.dll'
+2022-12-18 22:35:30|  10.0|  0.0|INFORM|FME API version of module 'JSON' matches current internal version (4.0 20220615)
+2022-12-18 22:35:30|  10.0|  0.0|INFORM|FME Configuration: Destination coordinate system set to `DHDN.Berlin/Cassini'
+2022-12-18 22:35:30|  10.0|  0.0|INFORM|Coordinate System `DHDN.Berlin/Cassini' parameters: CS_NAME=`DHDN.Berlin/Cassini' DESC_NM=`DHDN / Soldner Berlin' DT_NAME=`DHDN' EPSG_QD=`-1' GROUP=`EUROPE' MAP_SCL=`1' MAX_LAT=`52.68' MAX_LNG=`13.77' MIN_LAT=`52.330000000000005' MIN_LNG=`13.08' ORG_LAT=`52.41864827777778' PARM1=`13.627203666666666' PROJ=`CASSINI' QUAD=`1' SCL_RED=`1' SOURCE=`EPSG, V6.11.2, 3068 [Berlin state statistical office. Also a]' UNIT=`Meter' X_OFF=`40000' Y_OFF=`10000' ZERO_X=`0.001' ZERO_Y=`0.001'
+2022-12-18 22:35:30|  10.0|  0.0|INFORM|Writer `GEOJSON_1' of type `GEOJSON' using group definition keyword `GEOJSON_1_DEF'
+2022-12-18 22:35:30|  10.0|  0.0|INFORM|GeoJSON Writer: All features not in WGS84 will be reprojected to WGS84
+2022-12-18 22:35:30|  10.0|  0.0|INFORM|Opening the GEOJSON writer with destination dataset 'C:\Users\szymi\Documents\FME\Workspaces\zad6.json'
+2022-12-18 22:35:30|  10.0|  0.0|INFORM|CS-MAP Reprojector: Transformation will be automatically selected for 'DHDN.Berlin/Cassini' -> 'LL84', and is not guaranteed to remain the same in future releases of FME
+2022-12-18 22:35:30|  10.0|  0.0|INFORM|Reprojector: Using transformation `DHDN_to_ETRS89/01_8_ntv2_BeTA2007_FME,Forward(Grid File Interpolation,EPSG:15948)' when reprojecting from DHDN.Berlin/Cassini to LL84
+2022-12-18 22:35:30|  10.0|  0.0|INFORM|Reprojector:`DHDN_to_ETRS89/01_8_ntv2_BeTA2007_FME,Forward(Grid File Interpolation,EPSG:15948)' will use the following grid shift files:
+2022-12-18 22:35:30|  10.0|  0.0|INFORM|Reprojector:     C:\Program Files\FME\Reproject\EsriPEGridData\ntv2\germany\BeTA2007.gsb
+2022-12-18 22:35:30|  10.0|  0.0|INFORM|Reprojector: If a point is outside the usable range of 'DHDN_to_ETRS89/01_8_ntv2_BeTA2007_FME' the following fallback transformation will be used: 'DHDN_to_WGS84,Forward(Seven Parameter,EPSG:1673)'
+2022-12-18 22:35:30|  10.0|  0.0|INFORM|Reprojector: Using transformation `ETRS89/01_to_WGS84,Forward(Geocentric)' when reprojecting from DHDN.Berlin/Cassini to LL84
+2022-12-18 22:35:30|  10.1|  0.1|INFORM|Closing the GEOJSON writer
+2022-12-18 22:35:30|  10.1|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2022-12-18 22:35:30|  10.1|  0.0|INFORM|Feature output statistics for `GEOJSON' writer using keyword `GEOJSON_1':
+2022-12-18 22:35:30|  10.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2022-12-18 22:35:30|  10.1|  0.0|STATS |                               Features Written
+2022-12-18 22:35:30|  10.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2022-12-18 22:35:30|  10.1|  0.0|STATS |zad6                                                                        39
+2022-12-18 22:35:30|  10.1|  0.0|STATS |==============================================================================
+2022-12-18 22:35:30|  10.1|  0.0|STATS |Total Features Written                                                      39
+2022-12-18 22:35:30|  10.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2022-12-18 22:35:30|  10.1|  0.0|INFORM|MULTI_WRITER: multi_writer_id `1': done writing 39 feature(s) 
+2022-12-18 22:35:30|  10.1|  0.0|INFORM|^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2022-12-18 22:35:30|  10.1|  0.0|INFORM|MULTI_WRITER: multi_writer_id `2': Started outputting features
+2022-12-18 22:35:30|  10.1|  0.0|INFORM|Creating writer for format: GeoJSON (Geographic JavaScript Object Notation)
+2022-12-18 22:35:30|  10.1|  0.0|INFORM|Trying to find a DYNAMIC plugin for writer named `GEOJSON'
+2022-12-18 22:35:30|  10.1|  0.0|INFORM|FME Configuration: Destination coordinate system set to `DHDN.Berlin/Cassini'
+2022-12-18 22:35:30|  10.1|  0.0|INFORM|Coordinate System `DHDN.Berlin/Cassini' parameters: CS_NAME=`DHDN.Berlin/Cassini' DESC_NM=`DHDN / Soldner Berlin' DT_NAME=`DHDN' EPSG_QD=`-1' GROUP=`EUROPE' MAP_SCL=`1' MAX_LAT=`52.68' MAX_LNG=`13.77' MIN_LAT=`52.330000000000005' MIN_LNG=`13.08' ORG_LAT=`52.41864827777778' PARM1=`13.627203666666666' PROJ=`CASSINI' QUAD=`1' SCL_RED=`1' SOURCE=`EPSG, V6.11.2, 3068 [Berlin state statistical office. Also a]' UNIT=`Meter' X_OFF=`40000' Y_OFF=`10000' ZERO_X=`0.001' ZERO_Y=`0.001'
+2022-12-18 22:35:30|  10.1|  0.0|INFORM|Writer `GEOJSON_3' of type `GEOJSON' using group definition keyword `GEOJSON_3_DEF'
+2022-12-18 22:35:30|  10.1|  0.0|INFORM|GeoJSON Writer: All features not in WGS84 will be reprojected to WGS84
+2022-12-18 22:35:30|  10.1|  0.0|INFORM|Opening the GEOJSON writer with destination dataset 'C:\Users\szymi\Documents\FME\Workspaces\zad5b.json'
+2022-12-18 22:35:30|  10.1|  0.0|INFORM|Closing the GEOJSON writer
+2022-12-18 22:35:30|  10.1|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2022-12-18 22:35:30|  10.1|  0.0|INFORM|Feature output statistics for `GEOJSON' writer using keyword `GEOJSON_3':
+2022-12-18 22:35:30|  10.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2022-12-18 22:35:30|  10.1|  0.0|STATS |                               Features Written
+2022-12-18 22:35:30|  10.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2022-12-18 22:35:30|  10.1|  0.0|STATS |zad5b                                                                        1
+2022-12-18 22:35:30|  10.1|  0.0|STATS |==============================================================================
+2022-12-18 22:35:30|  10.1|  0.0|STATS |Total Features Written                                                       1
+2022-12-18 22:35:30|  10.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2022-12-18 22:35:30|  10.1|  0.0|INFORM|MULTI_WRITER: multi_writer_id `2': done writing 1 feature(s) 
+2022-12-18 22:35:30|  10.1|  0.0|INFORM|^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2022-12-18 22:35:30|  10.1|  0.0|INFORM|MULTI_WRITER: multi_writer_id `3': Started outputting features
+2022-12-18 22:35:30|  10.1|  0.0|INFORM|Creating writer for format: GeoJSON (Geographic JavaScript Object Notation)
+2022-12-18 22:35:30|  10.1|  0.0|INFORM|Trying to find a DYNAMIC plugin for writer named `GEOJSON'
+2022-12-18 22:35:30|  10.1|  0.0|INFORM|FME Configuration: Destination coordinate system set to `DHDN.Berlin/Cassini'
+2022-12-18 22:35:30|  10.1|  0.0|INFORM|Coordinate System `DHDN.Berlin/Cassini' parameters: CS_NAME=`DHDN.Berlin/Cassini' DESC_NM=`DHDN / Soldner Berlin' DT_NAME=`DHDN' EPSG_QD=`-1' GROUP=`EUROPE' MAP_SCL=`1' MAX_LAT=`52.68' MAX_LNG=`13.77' MIN_LAT=`52.330000000000005' MIN_LNG=`13.08' ORG_LAT=`52.41864827777778' PARM1=`13.627203666666666' PROJ=`CASSINI' QUAD=`1' SCL_RED=`1' SOURCE=`EPSG, V6.11.2, 3068 [Berlin state statistical office. Also a]' UNIT=`Meter' X_OFF=`40000' Y_OFF=`10000' ZERO_X=`0.001' ZERO_Y=`0.001'
+2022-12-18 22:35:30|  10.1|  0.0|INFORM|Writer `GEOJSON_4' of type `GEOJSON' using group definition keyword `GEOJSON_4_DEF'
+2022-12-18 22:35:30|  10.1|  0.0|INFORM|GeoJSON Writer: All features not in WGS84 will be reprojected to WGS84
+2022-12-18 22:35:30|  10.1|  0.0|INFORM|Opening the GEOJSON writer with destination dataset 'C:\Users\szymi\Documents\FME\Workspaces\zad5a.json'
+2022-12-18 22:35:30|  10.1|  0.0|INFORM|Closing the GEOJSON writer
+2022-12-18 22:35:30|  10.1|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2022-12-18 22:35:30|  10.1|  0.0|INFORM|Feature output statistics for `GEOJSON' writer using keyword `GEOJSON_4':
+2022-12-18 22:35:30|  10.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2022-12-18 22:35:30|  10.1|  0.0|STATS |                               Features Written
+2022-12-18 22:35:30|  10.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2022-12-18 22:35:30|  10.1|  0.0|STATS |zad5a                                                                        1
+2022-12-18 22:35:30|  10.1|  0.0|STATS |==============================================================================
+2022-12-18 22:35:30|  10.1|  0.0|STATS |Total Features Written                                                       1
+2022-12-18 22:35:30|  10.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2022-12-18 22:35:30|  10.1|  0.0|INFORM|MULTI_WRITER: multi_writer_id `3': done writing 1 feature(s) 
+2022-12-18 22:35:30|  10.1|  0.0|INFORM|^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2022-12-18 22:35:30|  10.1|  0.0|INFORM|MULTI_WRITER: multi_writer_id `4': Started outputting features
+2022-12-18 22:35:30|  10.1|  0.0|INFORM|Creating writer for format: GeoJSON (Geographic JavaScript Object Notation)
+2022-12-18 22:35:30|  10.1|  0.0|INFORM|Trying to find a DYNAMIC plugin for writer named `GEOJSON'
+2022-12-18 22:35:30|  10.1|  0.0|INFORM|FME Configuration: Destination coordinate system set to `DHDN.Berlin/Cassini'
+2022-12-18 22:35:30|  10.1|  0.0|INFORM|Coordinate System `DHDN.Berlin/Cassini' parameters: CS_NAME=`DHDN.Berlin/Cassini' DESC_NM=`DHDN / Soldner Berlin' DT_NAME=`DHDN' EPSG_QD=`-1' GROUP=`EUROPE' MAP_SCL=`1' MAX_LAT=`52.68' MAX_LNG=`13.77' MIN_LAT=`52.330000000000005' MIN_LNG=`13.08' ORG_LAT=`52.41864827777778' PARM1=`13.627203666666666' PROJ=`CASSINI' QUAD=`1' SCL_RED=`1' SOURCE=`EPSG, V6.11.2, 3068 [Berlin state statistical office. Also a]' UNIT=`Meter' X_OFF=`40000' Y_OFF=`10000' ZERO_X=`0.001' ZERO_Y=`0.001'
+2022-12-18 22:35:30|  10.1|  0.0|INFORM|Writer `GEOJSON_5' of type `GEOJSON' using group definition keyword `GEOJSON_5_DEF'
+2022-12-18 22:35:30|  10.1|  0.0|INFORM|GeoJSON Writer: All features not in WGS84 will be reprojected to WGS84
+2022-12-18 22:35:30|  10.2|  0.1|INFORM|Opening the GEOJSON writer with destination dataset 'C:\Users\szymi\Documents\FME\Workspaces\zad6nocost.json'
+2022-12-18 22:35:30|  10.2|  0.0|INFORM|Closing the GEOJSON writer
+2022-12-18 22:35:30|  10.2|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2022-12-18 22:35:30|  10.2|  0.0|INFORM|Feature output statistics for `GEOJSON' writer using keyword `GEOJSON_5':
+2022-12-18 22:35:30|  10.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2022-12-18 22:35:30|  10.2|  0.0|STATS |                               Features Written
+2022-12-18 22:35:30|  10.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2022-12-18 22:35:30|  10.2|  0.0|STATS |zad6nocost                                                                  39
+2022-12-18 22:35:30|  10.2|  0.0|STATS |==============================================================================
+2022-12-18 22:35:30|  10.2|  0.0|STATS |Total Features Written                                                      39
+2022-12-18 22:35:30|  10.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2022-12-18 22:35:30|  10.2|  0.0|INFORM|MULTI_WRITER: multi_writer_id `4': done writing 39 feature(s) 
+2022-12-18 22:35:30|  10.2|  0.0|INFORM|^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2022-12-18 22:35:30|  10.2|  0.0|INFORM|MULTI_WRITER: multi_writer_id `6': Started outputting features
+2022-12-18 22:35:30|  10.2|  0.0|INFORM|Creating writer for format: GeoJSON (Geographic JavaScript Object Notation)
+2022-12-18 22:35:30|  10.2|  0.0|INFORM|Trying to find a DYNAMIC plugin for writer named `GEOJSON'
+2022-12-18 22:35:30|  10.2|  0.0|INFORM|FME Configuration: Destination coordinate system set to `DHDN.Berlin/Cassini'
+2022-12-18 22:35:30|  10.2|  0.0|INFORM|Coordinate System `DHDN.Berlin/Cassini' parameters: CS_NAME=`DHDN.Berlin/Cassini' DESC_NM=`DHDN / Soldner Berlin' DT_NAME=`DHDN' EPSG_QD=`-1' GROUP=`EUROPE' MAP_SCL=`1' MAX_LAT=`52.68' MAX_LNG=`13.77' MIN_LAT=`52.330000000000005' MIN_LNG=`13.08' ORG_LAT=`52.41864827777778' PARM1=`13.627203666666666' PROJ=`CASSINI' QUAD=`1' SCL_RED=`1' SOURCE=`EPSG, V6.11.2, 3068 [Berlin state statistical office. Also a]' UNIT=`Meter' X_OFF=`40000' Y_OFF=`10000' ZERO_X=`0.001' ZERO_Y=`0.001'
+2022-12-18 22:35:30|  10.2|  0.0|INFORM|Writer `GEOJSON_7' of type `GEOJSON' using group definition keyword `GEOJSON_7_DEF'
+2022-12-18 22:35:30|  10.2|  0.0|INFORM|GeoJSON Writer: All features not in WGS84 will be reprojected to WGS84
+2022-12-18 22:35:30|  10.2|  0.0|INFORM|Opening the GEOJSON writer with destination dataset 'C:\Users\szymi\Documents\FME\Workspaces\zad7StatNocost.json'
+2022-12-18 22:35:30|  10.2|  0.0|INFORM|Closing the GEOJSON writer
+2022-12-18 22:35:30|  10.2|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2022-12-18 22:35:30|  10.2|  0.0|INFORM|Feature output statistics for `GEOJSON' writer using keyword `GEOJSON_7':
+2022-12-18 22:35:30|  10.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2022-12-18 22:35:30|  10.2|  0.0|STATS |                               Features Written
+2022-12-18 22:35:30|  10.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2022-12-18 22:35:30|  10.2|  0.0|STATS |StatNoCost                                                                   2
+2022-12-18 22:35:30|  10.2|  0.0|STATS |==============================================================================
+2022-12-18 22:35:30|  10.2|  0.0|STATS |Total Features Written                                                       2
+2022-12-18 22:35:30|  10.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2022-12-18 22:35:30|  10.2|  0.0|INFORM|MULTI_WRITER: multi_writer_id `6': done writing 2 feature(s) 
+2022-12-18 22:35:30|  10.2|  0.0|INFORM|^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2022-12-18 22:35:30|  10.2|  0.0|INFORM|MULTI_WRITER: multi_writer_id `7': Started outputting features
+2022-12-18 22:35:30|  10.2|  0.0|INFORM|Creating writer for format: GeoJSON (Geographic JavaScript Object Notation)
+2022-12-18 22:35:30|  10.2|  0.0|INFORM|Trying to find a DYNAMIC plugin for writer named `GEOJSON'
+2022-12-18 22:35:30|  10.2|  0.0|INFORM|FME Configuration: Destination coordinate system set to `DHDN.Berlin/Cassini'
+2022-12-18 22:35:30|  10.2|  0.0|INFORM|Coordinate System `DHDN.Berlin/Cassini' parameters: CS_NAME=`DHDN.Berlin/Cassini' DESC_NM=`DHDN / Soldner Berlin' DT_NAME=`DHDN' EPSG_QD=`-1' GROUP=`EUROPE' MAP_SCL=`1' MAX_LAT=`52.68' MAX_LNG=`13.77' MIN_LAT=`52.330000000000005' MIN_LNG=`13.08' ORG_LAT=`52.41864827777778' PARM1=`13.627203666666666' PROJ=`CASSINI' QUAD=`1' SCL_RED=`1' SOURCE=`EPSG, V6.11.2, 3068 [Berlin state statistical office. Also a]' UNIT=`Meter' X_OFF=`40000' Y_OFF=`10000' ZERO_X=`0.001' ZERO_Y=`0.001'
+2022-12-18 22:35:30|  10.2|  0.0|INFORM|Writer `GEOJSON_8' of type `GEOJSON' using group definition keyword `GEOJSON_8_DEF'
+2022-12-18 22:35:30|  10.2|  0.0|INFORM|GeoJSON Writer: All features not in WGS84 will be reprojected to WGS84
+2022-12-18 22:35:30|  10.2|  0.0|INFORM|Opening the GEOJSON writer with destination dataset 'C:\Users\szymi\Documents\FME\Workspaces\zad7StatCcost.json'
+2022-12-18 22:35:30|  10.2|  0.0|INFORM|Closing the GEOJSON writer
+2022-12-18 22:35:30|  10.2|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2022-12-18 22:35:30|  10.2|  0.0|INFORM|Feature output statistics for `GEOJSON' writer using keyword `GEOJSON_8':
+2022-12-18 22:35:30|  10.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2022-12-18 22:35:30|  10.2|  0.0|STATS |                               Features Written
+2022-12-18 22:35:30|  10.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2022-12-18 22:35:30|  10.2|  0.0|STATS |StatCost                                                                     2
+2022-12-18 22:35:30|  10.2|  0.0|STATS |==============================================================================
+2022-12-18 22:35:30|  10.2|  0.0|STATS |Total Features Written                                                       2
+2022-12-18 22:35:30|  10.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2022-12-18 22:35:30|  10.2|  0.0|INFORM|MULTI_WRITER: multi_writer_id `7': done writing 2 feature(s) 
+2022-12-18 22:35:30|  10.2|  0.0|INFORM|^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2022-12-18 22:35:30|  10.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2022-12-18 22:35:30|  10.2|  0.0|STATS |                            Features Read Summary
+2022-12-18 22:35:30|  10.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2022-12-18 22:35:30|  10.2|  0.0|STATS |CSV                                                                          2
+2022-12-18 22:35:30|  10.2|  0.0|STATS |T2019_KAR_POI_TABLE                                                       3622
+2022-12-18 22:35:30|  10.2|  0.0|STATS |T2019_KAR_STREETS                                                        22070
+2022-12-18 22:35:30|  10.2|  0.0|STATS |T2019_KAR_STREET_NODE                                                    66404
+2022-12-18 22:35:30|  10.2|  0.0|STATS |==============================================================================
+2022-12-18 22:35:30|  10.2|  0.0|STATS |Total Features Read                                                      92098
+2022-12-18 22:35:30|  10.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2022-12-18 22:35:30|  10.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2022-12-18 22:35:30|  10.2|  0.0|STATS |                           Features Written Summary
+2022-12-18 22:35:30|  10.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2022-12-18 22:35:30|  10.2|  0.0|STATS |StatCost                                                                     2
+2022-12-18 22:35:30|  10.2|  0.0|STATS |StatNoCost                                                                   2
+2022-12-18 22:35:30|  10.2|  0.0|STATS |zad5a                                                                        1
+2022-12-18 22:35:30|  10.2|  0.0|STATS |zad5b                                                                        1
+2022-12-18 22:35:30|  10.2|  0.0|STATS |zad6                                                                        39
+2022-12-18 22:35:30|  10.2|  0.0|STATS |zad6nocost                                                                  39
+2022-12-18 22:35:30|  10.2|  0.0|STATS |==============================================================================
+2022-12-18 22:35:30|  10.2|  0.0|STATS |Total Features Written                                                      84
+2022-12-18 22:35:30|  10.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2022-12-18 22:35:30|  10.2|  0.0|WARN  |-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+2022-12-18 22:35:30|  10.2|  0.0|WARN  |-~                                                                             ~-
+2022-12-18 22:35:30|  10.2|  0.0|WARN  |-~    Feature caches have been recorded at every stage of the translation.     ~-
+2022-12-18 22:35:30|  10.2|  0.0|WARN  |-~                      To inspect the recorded features,                      ~-
+2022-12-18 22:35:30|  10.2|  0.0|WARN  |-~              click the feature cache icons next to the ports.               ~-
+2022-12-18 22:35:30|  10.2|  0.0|WARN  |-~                                                                             ~-
+2022-12-18 22:35:30|  10.2|  0.0|WARN  |-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+2022-12-18 22:35:30|  10.2|  0.0|INFORM|Translation was SUCCESSFUL with 8 warning(s) (84 feature(s) output)
+2022-12-18 22:35:30|  10.2|  0.0|INFORM|FME Session Duration: 10.6 seconds. (CPU: 8.7s user, 1.5s system)
+2022-12-18 22:35:30|  10.2|  0.0|INFORM|END - ProcessID: 18168, peak process memory usage: 274760 kB, current process memory usage: 155072 kB
